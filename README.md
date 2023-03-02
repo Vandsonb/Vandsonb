@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Desenvolvimento de software com foco em Backend** na <a href="https://cubos.academy/">Cubos Academy.</a>
 - 💼 &nbsp; Trabalhando atualmente como **Motoboy autônomo** no <a href="https://www.ifood.com.br/">Ifood</a>
-- 🌱 &nbsp; Aprendendo mais sobre **As tecnologias essênciais para o Backend**.
+- 🌱 &nbsp; Aprendendo mais sobre **As tecnologias essenciais para o Backend**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
