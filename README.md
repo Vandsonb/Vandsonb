@@ -1,6 +1,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Vandsonb&color=006bed)
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=50&pause=1000&color=037B7B&background=FFFFFF00&vCenter=true&width=700&height=60&lines=%F0%9F%91%8B+Vandson+aqui+sou+Desenvolvedor+Backend)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&pause=1000&color=037B7B&background=FFFFFF00&vCenter=true&width=700&height=60&lines=%F0%9F%91%8B+Vandson+aqui+sou+Desenvolvedor+Backend)](https://git.io/typing-svg)
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
